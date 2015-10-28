@@ -2,4 +2,4 @@ this is my test text
 
 hello git
 
-thank
+thank you
